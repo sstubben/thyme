@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+john:
+  full_name: John Doe
+  email: john@doe.com
+  mobile_number: 0185620568
+  company_name: Doe Ventures
+  company_address: Persarian Capsquare 2
+
+jane:
+  full_name: Jane Doe
+  email: jane@doe.com
+  mobile_number: 0113620687
+  company_name: Lion & Lion
+  company_address: Jalan Alor 18
